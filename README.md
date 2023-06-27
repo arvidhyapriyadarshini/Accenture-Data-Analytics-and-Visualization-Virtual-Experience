@@ -42,6 +42,6 @@ The execution of the assignment involved performing exploratory data analysis (E
 
 ### Conclusion
 
-The Accenture Data Analysis assignment provided a comprehensive understanding of the role and responsibilities of a Data Analyst. The assignment required the utilization of various data analysis techniques, including data cleaning, modeling, and visualization. Through the application of Python libraries such as Pandas, Matplotlib, Seaborn, and Plotly, insights were derived from the provided dataset. The assignment culminated in the preparation of slides and presentation of the analysis to the clients.
-Overall, the Virtual Experience program offered a valuable opportunity to simulate an end-to-end data analysis project within a short timeframe. It provided an in-depth understanding of the data analysis process and showcased the skills necessary for successful data analysis in a professional setting.
+The Accenture Data Analysis assignment provided a comprehensive understanding of the role and responsibilities of a Data Analyst. The assignment required utilizing various data analysis techniques, including data cleaning, modeling, and visualization. Through the application of Python libraries such as Pandas, Matplotlib, Seaborn, and Plotly, insights were derived from the provided dataset. The assignment culminated in the preparation of slides and the presentation of the analysis to the clients.
+Overall, the Virtual Experience program offered a valuable opportunity to simulate an end-to-end data analysis project. It provides an in-depth understanding of the data analysis process and showcases the skills necessary for successful data analysis in a professional setting.
 
